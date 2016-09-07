@@ -2,7 +2,7 @@
 
 What you should do first is to click the `fork` button on this repo on Github.
 
-## Common commands:
+## Common commands:  asdasd
 
 * `git clone https://github.com/YourGithubUsername/Code-LTHGit2016.git` to clone this entire repo (your fork) into a directory on your computer.
 * `git status` to check how badly things are going. If you don't know what command to run, run this one.
